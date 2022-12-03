@@ -5,7 +5,7 @@ int main()
                long long square;
       long long i=0;
       scanf("%lli", &square);
-       while(i<=1000000){
+       while(i<=10000){
             if(square==(i*i)){
 
         printf("YES", square);
