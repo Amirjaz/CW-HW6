@@ -2,7 +2,6 @@
 
 int main()
 {
-     int ss;
      int max=0;
     int min=100000000;
     int inpt, n=0;
